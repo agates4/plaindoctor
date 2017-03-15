@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/ListDiagnosisController.swift"
+            timestampString = "503481191.432155"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/ViewController.swift"
+            timestampString = "505285374.158309"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "436"
+            endingLineNumber = "436"
+            landmarkName = "recordButtonTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/ViewController.swift"
+            timestampString = "503739425.835408"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "291"
+            endingLineNumber = "291"
+            landmarkName = "recordButtonTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/DiagnosisController.swift"
+            timestampString = "505608291.423239"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "403"
+            endingLineNumber = "403">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.DiagnosisController.animateBackgroundColor (input : __ObjC.UIButton, color : __ObjC.UIColor, duration : Swift.Double, delay : Swift.Double) -&gt; ()"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/DiagnosisController.swift"
+                  timestampString = "505608292.721953"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "403"
+                  endingLineNumber = "403"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.DiagnosisController.(animateBackgroundColor (input : __ObjC.UIButton, color : __ObjC.UIColor, duration : Swift.Double, delay : Swift.Double) -&gt; ()).(closure #1)"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/DiagnosisController.swift"
+                  timestampString = "505608292.725779"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "404"
+                  endingLineNumber = "404"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/AuthenticateController.swift"
+            timestampString = "506998343.460946"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "AuthenticateController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/AuthenticateController.swift"
+            timestampString = "507072692.072767"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "AuthenticateController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/MenuItem.swift"
+            timestampString = "510025452.29441"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "initNavBar(optionalWidth:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/RecordViewController.swift"
+            timestampString = "510042990.581085"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "startRecording(restartSession:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.RecordViewController.(startRecording in _56EDBA02986A0375664F9F7AD091D2AE) () throws -&gt; ()"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/RecordViewController.swift"
+                  timestampString = "508790512.870776"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.RecordViewController.(startRecording in _56EDBA02986A0375664F9F7AD091D2AE) () throws -&gt; ()"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/RecordViewController.swift"
+                  timestampString = "508790512.87335"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/CalendarViewController.swift"
+            timestampString = "509415809.60156"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "didSingleTapCollectionView(gesture:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/CalendarViewController.swift"
+            timestampString = "509415809.60156"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "findValue(json:key:value:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/AppleCalendarHelper.swift"
+            timestampString = "508999042.775656"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "doesExist(result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/SlideView.swift"
+            timestampString = "509410520.566035"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "color1WasTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/AuthViewController.swift"
+            timestampString = "509936430.29107"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "AuthViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.AuthViewController.__deallocating_deinit"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/AuthViewController.swift"
+                  timestampString = "509849136.032687"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.AuthViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Diagnosix.AuthViewController"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/AuthViewController.swift"
+                  timestampString = "509849136.03488"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.AuthViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Diagnosix.AuthViewController"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/AuthViewController.swift"
+                  timestampString = "509849136.036916"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.AuthViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Diagnosix.AuthViewController&gt;"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/AuthViewController.swift"
+                  timestampString = "509849136.039057"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.AuthViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Diagnosix.AuthViewController&gt;"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/AuthViewController.swift"
+                  timestampString = "509849136.04051"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/AuthViewController.swift"
+            timestampString = "509936430.29107"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "textFieldDidBeginEditing(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/AuthViewController.swift"
+            timestampString = "509936430.29107"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "switchScreen()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.AuthViewController.switchScreen () -&gt; ()"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/AuthViewController.swift"
+                  timestampString = "509851182.180953"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.AuthViewController.(switchScreen () -&gt; ()).(closure #1)"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/AuthViewController.swift"
+                  timestampString = "509851182.182749"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.AuthViewController.(switchScreen () -&gt; ()).(closure #2)"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/AuthViewController.swift"
+                  timestampString = "509851182.18695"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/ListViewController.swift"
+            timestampString = "510010230.402148"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diagnosix/DiagnosisViewController.swift"
+            timestampString = "510032394.996129"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.DiagnosisViewController.locValue.getter : Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/DiagnosisViewController.swift"
+                  timestampString = "510021262.792569"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.DiagnosisViewController.locValue.setter : Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/DiagnosisViewController.swift"
+                  timestampString = "510021262.794393"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.DiagnosisViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Diagnosix.DiagnosisViewController"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/DiagnosisViewController.swift"
+                  timestampString = "510021262.79604"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "688">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diagnosix.DiagnosisViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Diagnosix.DiagnosisViewController&gt;"
+                  moduleName = "Diagnosix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arongates/Library/Mobile%20Documents/com~apple~CloudDocs/Workspace/PlainDoc/Diagnosix/DiagnosisViewController.swift"
+                  timestampString = "510021262.797687"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

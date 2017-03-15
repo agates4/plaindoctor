@@ -1,0 +1,21 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Diagnosix' do
+  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'SwiftyJSON'
+  pod 'Alamofire'
+  pod 'SwiftSiriWaveformView'
+  pod 'SwiftSpinner'
+  pod 'PopupDialog'
+  pod 'KeychainSwift'
+  pod 'SideMenu'
+  pod 'JTAppleCalendar'
+  pod 'CustomizableActionSheet'
+  pod 'IQKeyboardManagerSwift'
+  pod 'Font-Awesome-Swift'
+  pod 'FoldingCell'
+  # Pods for Diagnosix
+
+end

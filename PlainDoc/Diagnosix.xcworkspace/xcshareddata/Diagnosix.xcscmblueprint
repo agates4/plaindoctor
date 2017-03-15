@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4CE5AFA2FF3CCBB758DC3476B0AAD5D83B2D1BCB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4CE5AFA2FF3CCBB758DC3476B0AAD5D83B2D1BCB" : 9223372036854775807,
+    "041409ED0AAAD653733A4C9409D3BA1591A9A31C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "54A3D1D6-01D9-4CBE-89F2-E29C6B98D993",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4CE5AFA2FF3CCBB758DC3476B0AAD5D83B2D1BCB" : "Diagnosix\/",
+    "041409ED0AAAD653733A4C9409D3BA1591A9A31C" : "..\/Sites\/dynamix"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Diagnosix",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Diagnosix\/Diagnosix.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/csinko\/dynamix.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "041409ED0AAAD653733A4C9409D3BA1591A9A31C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/agates4\/Diagnosix.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4CE5AFA2FF3CCBB758DC3476B0AAD5D83B2D1BCB"
+    }
+  ]
+}
